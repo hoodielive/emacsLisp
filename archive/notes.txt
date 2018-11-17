@@ -1,0 +1,12 @@
+Emacs 
+
+The ecosystem: 
+  - a terminal 
+  - a software package manager 
+  - a calendar 
+  - a project planner 
+  - a mail reader 
+  - a news reader 
+  - a web browser 
+  - a file manager 
+
