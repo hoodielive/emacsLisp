@@ -9,4 +9,5 @@ The ecosystem:
   - a news reader 
   - a web browser 
   - a file manager 
+  - a planner
 
